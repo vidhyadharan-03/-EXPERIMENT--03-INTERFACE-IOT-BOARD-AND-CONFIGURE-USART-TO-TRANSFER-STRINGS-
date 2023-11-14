@@ -93,7 +93,7 @@ int main(void)
 
   while (1)
   {
-	  printf("JAYABHARATHI\n");
+	  printf("SAVEETHA ENGINEERING COLLEGE\n");
 	  HAL_Delay(500);
 
   }
@@ -204,7 +204,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output screen shots of Serial port utility   :
 
-![IOT3JA](https://github.com/Jayabharathi3/-EXPERIMENT--03-INTERFACING-A-SOIL-MOISTURE-SENSOR-AND-CONFIGURING-THE-OUTPUT-THROUGH-USART--USING-/assets/120367796/ad47298d-9b2a-4481-8e68-9937c9de3edb)
+![381e6a1f-3197-4531-9c76-85d985516edc](https://github.com/vidhyadharan-03/-EXPERIMENT--03-INTERFACE-IOT-BOARD-AND-CONFIGURE-USART-TO-TRANSFER-STRINGS-/assets/114286357/79f9e70f-280e-40f0-8fd0-7ee7b0693cdd)
 
 ## Result :
 Interfacing a digital Input (Pushbutton ) with ARM microcontroller based IOT development is executed and the results are verified.
